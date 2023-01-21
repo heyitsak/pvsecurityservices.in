@@ -57,12 +57,7 @@ export const projectsData = [
 
 // CONTACT DATA
 export const contactData = {
-  cta: 'Would you like to work with us? Awesome!
-        Contact us:
-          Peevees security and placement services
-          PM TAJ road RL building Room No 10/355
-          Calicut - 673001
-          Kerala , India ',
+  cta: 'Would you like to work with us? Awesome! ',
   btn: '',
   email: 'info@pvsecurityservices.in',
 };
