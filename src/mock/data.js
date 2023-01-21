@@ -9,9 +9,9 @@ export const headData = {
 
 // HERO DATA
 export const heroData = {
-  title: 'Hello, we are',
-  name: 'PEEVEES SECURITY AND PLACEMENT SERVICES',
-  subtitle: 'Security services in Calicut, Kerala',
+  title: 'PEEVEES SECURITY',
+  name: ' AND',
+  subtitle: 'PLACEMENT SERVICES',
   cta: '',
 };
 
