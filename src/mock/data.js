@@ -2,16 +2,16 @@ import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
-  title: '', // e.g: 'Name | Developer'
-  lang: '', // e.g: en, es, fr, jp
+  title: 'PEEVEES SECURITY AND PLACEMENT SERVICES', // e.g: 'Name | Developer'
+  lang: 'en', // e.g: en, es, fr, jp
   description: 'Security services in Calicut, Kerala', // e.g: Welcome to my website
 };
 
 // HERO DATA
 export const heroData = {
-  title: 'PEEVEES SECURITY AND PLACEMENT SERVICES',
-  name: '',
-  subtitle: '',
+  title: 'Hello, we are',
+  name: 'PEEVEES SECURITY AND PLACEMENT SERVICES',
+  subtitle: 'Security services in Calicut, Kerala',
   cta: '',
 };
 
@@ -57,10 +57,14 @@ export const projectsData = [
 
 // CONTACT DATA
 export const contactData = {
-  cta: '',
+  cta: 'Would you like to work with us? Awesome!
+        Contact us:
+          Peevees security and placement services
+          PM TAJ road RL building Room No 10/355
+          Calicut - 673001
+          Kerala , India ',
   btn: '',
-  email: 'info@pvsecurityservices.in
-',
+  email: 'info@pvsecurityservices.in',
 };
 
 // FOOTER DATA
