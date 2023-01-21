@@ -38,9 +38,12 @@ const Footer = () => {
         </div>
         <hr />
         <p className="footer__text">
-          © {new Date().getFullYear()} - Template developed by{' '}
+          © {new Date().getFullYear()} - Contact Us: {' '}
           <a href="https://github.com/cobidev" target="_blank" rel="noopener noreferrer">
-            Jacobo Martínez
+            Peevees security and placement services
+            PM TAJ road RL building Room No 10 355
+            Calicut - 673001
+            Kerala , India
           </a>
         </p>
 
