@@ -4,12 +4,12 @@ import { nanoid } from 'nanoid';
 export const headData = {
   title: '', // e.g: 'Name | Developer'
   lang: '', // e.g: en, es, fr, jp
-  description: '', // e.g: Welcome to my website
+  description: 'Security services in Calicut, Kerala', // e.g: Welcome to my website
 };
 
 // HERO DATA
 export const heroData = {
-  title: '',
+  title: 'PEEVEES SECURITY AND PLACEMENT SERVICES',
   name: '',
   subtitle: '',
   cta: '',
@@ -29,7 +29,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'project.jpg',
-    title: '',
+    title: 'Project 11',
     info: '',
     info2: '',
     url: '',
